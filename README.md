@@ -1,7 +1,7 @@
 CatchMeIfYouCan-Python_FinalProject
 
-Escape and Catch strategies for drones
+1) Escape and Catch strategies for drones
 
-Written in python 
+2) Written in python 
 
-Devloped with a team of three members
+3) Devloped with a team of three members
